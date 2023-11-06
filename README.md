@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- HOWDY? NOTHING FANCY HERE -->
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mt-v&theme=merko&count_private=true&include_all_commits=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage" />
